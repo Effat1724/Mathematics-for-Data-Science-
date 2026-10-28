@@ -3,7 +3,8 @@
 # 📊 Data Science Course — Matrix Methods & Foundations
 
 A mathematically rigorous Data Science course repository focused on the linear algebra foundations behind modern data science, machine learning, and large-scale computation. Covers sparse matrix algorithms, iterative solvers, eigenvalue problems, randomized numerical linear algebra, graph methods, and tensor decompositions — all with an emphasis on computational efficiency and real-world data applications.
-📚 Course Description
+
+# 📚 Course Description
 
 This repository contains lecture notes, code implementations, assignments, and reference materials for a graduate-level Data Science course built around matrix methods and algorithmic foundations. The course bridges classical numerical linear algebra with modern data science techniques, covering both theory and practical computation.
 
